@@ -1,0 +1,7 @@
+twitter
+json
+
+
+python-twitter
+pytest 
+pytest-cov 

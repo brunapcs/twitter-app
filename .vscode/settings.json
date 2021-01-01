@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/Users/bruna.paracat/opt/anaconda3/envs/twitter-app/bin/python", 
+        "terminal.integrated.env.osx": {
+        "CONSUMER_KEY": "",  
+        "CONSUMER_SECRET":"" , 
+        "ACCESS_TOKEN": "",
+        "ACCESS_SECRET" : ""
+    }
+
+}
